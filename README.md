@@ -1,8 +1,8 @@
 # 2024年最新免费性价比及高端机场推荐(2024-10)
 
 <span style="font-size: 2em; color: red;">Welcome</span>
-<span style="font-size: 0.8em; color: lightblue;">To</span>
-<span style="font-size: 1.5em; color: orange;">Here</span>
+<span style="font-size: 1.5em; color: lightblue;">To</span>
+<span style="font-size: 2em; color: orange;">Here</span>
 
 ---
 
@@ -16,12 +16,12 @@
 推荐代理软件：Clash系、Singbox系。
 
 <p style="font-size: 1.5em; color: black;">
-        <span style="color: red;">友情提示：</span>
-        文章中的大部分内容被折叠了，可以点击三角图标
-        <span style="color: black; font-weight: bold; font-size: 1.2em;">(▶)</span>
-        <span style="color: red;">进行内容的展开；点击右上角的三条杠图标</span>
-        <span style="color: black; font-weight: bold; font-size: 1.2em;">(☰)</span>
-        <span style="color: red;">可以查看文章目录。</span>
+    <span style="color: red;">友情提示：</span>
+    文章中的大部分内容被折叠了，可以点击三角图标
+    <span style="color: black; font-weight: bold; font-size: 1.2em;">(▶)</span>
+    <span style="color: red;">进行内容的展开；点击右上角的三条杠图标</span>
+    <span style="color: black; font-weight: bold; font-size: 1.2em;">(☰)</span>
+    <span style="color: red;">可以查看文章目录。</span>
 </p>
 
 ## 1 免责声明
@@ -45,20 +45,52 @@
 
 #### 3.1.1 白嫖机场
 
-|       白嫖机场      |                                                                                                         流量情况                                                                                                        |                                     地址                                    |
-|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-|        Jay 云       |                                                                                           目前可以白嫖100G/月套餐（机场主贴心给了**年付白嫖**选项。。。不知道现在改了没），**上海电信**那边的多线程测速能达到 **2000Mbps**，但是其他地区的测速很一般（~~目前限量**500份**，先到先得，要是节点寄了，可以加群组询问解决的方法！~~ 。目前卖完了，大家可以先进群等下次赠送白嫖套餐的活动）。推荐大家在使用这个备用的同时，使用他家的付费套餐！                                                                                           |         [Jay 云官网注册地址](https://jaybest.one/#/register?code=9)         |
-|        萌物云（**可自选入口**）       |                                                                                            每月50G免费流量套餐，节点数量 6 仅包含美日新三国节点（目前有**100份**白嫖套餐，先到先得；还有个年付30+，类似白嫖套餐的套餐。）。有 Emby 服务，不过只有购买黄金和钻石套餐的才会附带。（新机场，所以目前来讲，这个白嫖节点的速度相对以下机场会好些。TG 群组里可以签到获得不少流量，这点很棒！关键是不限时套餐也可以签到领取流量！！）                                                                                           |         [萌物云](https://dash.moeu01.com/register?code=7X77JPiu)         |
-|        忽悠云       |                                                                                            记得那年夏天，某个机场几天内就发完了 **10000+** 的白嫖码，没错，那就是忽悠云。虽然 **现在没有白嫖码** 了，但是以示尊重，就把他放在这里了（有试用套餐）。                                                                                           |         [忽悠云](https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L)         |
-|        IKUUU        |                                                                              每月50G流量，可白嫖三个月（限速50M）。充值一块钱后可永久白嫖。                                                                             |              [IKUUU](https://ikuuu.pw/auth/register?code=iQns)              |
-|        迷雾通       |                                                                                                  免费账号限速125Mbps。                                                                                                  |                        [迷雾通](https://geph.io/zhs)                        |
-|     ~~Oblivion（目前无法使用）~~    | 是伊朗开发者做的非官方Warp客户端，理论上来说无限流量。刚开始很好用，但是后来不是很好用了。现在我这边是无法使用的状态，可能未来更新软件后可以使用。[参考文章](https://github.com/bepass-org/oblivion-desktop/issues/367) |          [Oblivion](https://github.com/bepass-org/oblivion-desktop)         |
+<details>
+    <summary>白嫖机场</summary>
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">白嫖机场</th>
+      <th style="text-align: center">流量情况</th>
+      <th style="text-align: center">地址</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Jay 云</td>
+      <td style="text-align: center">目前可以白嫖100G/月套餐（机场主贴心给了<strong>年付白嫖</strong>选项。。。不知道现在改了没），<strong>上海电信</strong>那边的多线程测速能达到 <strong>2000Mbps</strong>，但是其他地区的测速很一般（<del>目前限量<strong>500份</strong>，先到先得，要是节点寄了，可以加群组询问解决的方法！</del> 。目前卖完了，大家可以先进群等下次赠送白嫖套餐的活动）。推荐大家在使用这个备用的同时，使用他家的付费套餐！</td>
+      <td style="text-align: center"><a href="https://jaybest.one/#/register?code=9">Jay 云官网注册地址</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">萌物云（<strong>可自选入口</strong>）</td>
+      <td style="text-align: center">每月50G免费流量套餐，节点数量 6 仅包含美日新三国节点（目前有<strong>100份</strong>白嫖套餐，先到先得；还有个年付30+，类似白嫖套餐的套餐。）。有 Emby 服务，不过只有购买黄金和钻石套餐的才会附带。（新机场，所以目前来讲，这个白嫖节点的速度相对以下机场会好些。TG 群组里可以签到获得不少流量，这点很棒！关键是不限时套餐也可以签到领取流量！！）</td>
+      <td style="text-align: center"><a href="https://dash.moeu01.com/register?code=7X77JPiu">萌物云</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">忽悠云</td>
+      <td style="text-align: center">记得那年夏天，某个机场几天内就发完了 <strong>10000+</strong> 的白嫖码，没错，那就是忽悠云。虽然 <strong>现在没有白嫖码</strong> 了，但是以示尊重，就把他放在这里了（有试用套餐）。</td>
+      <td style="text-align: center"><a href="https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L">忽悠云</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">IKUUU</td>
+      <td style="text-align: center">每月50G流量，可白嫖三个月（限速50M）。充值一块钱后可永久白嫖。</td>
+      <td style="text-align: center"><a href="https://ikuuu.pw/auth/register?code=iQns">IKUUU</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">迷雾通</td>
+      <td style="text-align: center">免费账号限速125Mbps。</td>
+      <td style="text-align: center"><a href="https://geph.io/zhs">迷雾通</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><del>Oblivion（目前无法使用）</del></td>
+      <td style="text-align: center">是伊朗开发者做的非官方Warp客户端，理论上来说无限流量。刚开始很好用，但是后来不是很好用了。现在我这边是无法使用的状态，可能未来更新软件后可以使用。<a href="https://github.com/bepass-org/oblivion-desktop/issues/367">参考文章</a></td>
+      <td style="text-align: center"><a href="https://github.com/bepass-org/oblivion-desktop">Oblivion</a></td>
+    </tr>
+  </tbody>
+</table>
 
---- 
-
-**白嫖机场总结**：*免费的东西也是最贵*的，在价格上看起来是白嫖，但这需要你在其他地方找补——时间和精力。
-
+</details>
 
 #### 3.1.2 其他白嫖途径
 
@@ -69,59 +101,222 @@
 
 #### 3.2.1 中转机场
 
+<details>
+    <summary>中转机场</summary>
 
-|   中转机场    |                                                                                                                                         价格流量图                                                                                                                                         |                                                                                                          评价                                                                                                          |                                                                           注册官网（大部分是网页注册的，除了 JAY 云是 TG 上机器人注册的）                                                                           |
-| :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   Jay 云   |                                                                  <a href='https://postimg.cc/GTbc7ftv' target='_blank'><img src='https://i.postimg.cc/GTbc7ftv/09-25-2024.png' border='0' alt='09-25-2024'/></a>                                                                   |                     主中转机场+香港IEPL专线、**京德线路**、~~落地大部分 *misaka* 机器；大部分套餐送 **1111 emby**账号~~；目前上线了**白嫖套餐**！性价比高，解锁不错，除热门节点外还有比较多的家宽（**香港HKT**、台湾、越南、马来西亚、意大利、波兰、尼日利亚、尼泊尔）、土耳其、等节点；0.01X emby、0.5X、0.8X、1X、10X 倍率节点。**注册送2元余额**（现在可能没了）。解锁不错，~~0.01X倍率节点适配大部分的 Emby 服（**就是说即使你的机场不是他家送的emby服，也是可以用0.01X倍率的节点进行观看**）~~。机场主常在线解决问题。                      | [Jay 云 TG bot注册地址](https://t.me/jaycloudbot?start=9)、 [Jay 云 discord 注册地址](https://discord.gg/eBkvMwaFwC)、 [Jay 云官网注册地址](https://jaybest.one/#/register?code=9) |
-|    To2    |     <a href="https://postimg.cc/rD6SLZmy" target="_blank"><img src="https://i.postimg.cc/rD6SLZmy/24-6-26-To2.png" alt="24-6-26-To2"/></a> <a href="https://postimg.cc/68dC6V2r" target="_blank"><img src="https://i.postimg.cc/68dC6V2r/24-6-26-To2.png" alt="24-6-26-To2"/></a>     |                                             大部分中转、两个直连的**小众精品机场**，8K秒开。价格很低，默认 0.5X、1X倍率节点。提供较全的流媒体解锁，除热门节点外还有菲律宾、土耳其、阿根廷、泰国、埃及、巴基斯坦、尼日利亚、印度、越南、缅甸、澳门等低价区购物节点（有**台湾家宽节点**）。                                             |                                                                  [To2](https://air.totwo.link/#/register?code=3B4bS6ls)                                                                  | 
-|    星遇 Next    |                                                                        <a href="https://postimg.cc/2VPGpXD1" target="_blank"><img src="https://i.postimg.cc/2VPGpXD1/24-8-7-Next.png" alt="24-8-7-Next"/></a>                                                                         | 中转机场、之前有**唯云**的机子，但是被打后下掉了。即使如此，性价比也很高；三年付套餐**每月150G/4元**；年付套餐每月150G/5.4元。机器是正价机器，所以稳定性还不错（除了有人打的时候）；8-30号的时候，被D的情况很少见了，珠三角那边的晚高峰单线程能有500兆左右。老板也很有实力，开了不少分站，这次下场卷TG里的价格。 |                                                                   [星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)                                                                   |
-|    渔舍     |                                                       <a href="https://postimg.cc/cr3nT7cp" target="_blank"><img src="https://i.postimg.cc/cr3nT7cp/Snipaste-2024-06-26-04-48-14.png" alt="Snipaste-2024-06-26-04-48-14"/></a>                                                        |                                                                        大部分中转、一个直连的小众机场、拥有常见的热门节点、目前香港节点是深港线路。某机场主二开机场，机场**性价比很高**，~~目前会随机重置已用完的套餐流量~~（目前因有人恶意刷流量取消该福利），这个价位少数用**独享**机器的机场，懂的都懂。                                                                        |                                                                  [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)                                                                   |
-|    CTC    |                                                                        <a href="https://postimg.cc/Nyc7RCqC" target="_blank"><img src="https://i.postimg.cc/Nyc7RCqC/24-6-26-CTC.png" alt="24-6-26-CTC"/></a>                                                                         |                                           中转机场+IEPL专线、拥有常见热门地区的节点。拥有 **0.1X-1X 倍率**的节点（不定时改倍率，请及时刷新订阅查看节点的倍率情况），**0.7X 倍率**及以上是IEPL专线节点。这是个**精美的小机场**，TG有群组，但是需要购买后才可以进群组。                                           |                                                                [CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d)                                                                |
-|    Fac    |                                                              <a href='https://postimg.cc/k6jQ3nVL' target='_blank'><img src='https://i.postimg.cc/k6jQ3nVL/24-6-26-Fac-Mata.png' border='0' alt='24-6-26-Fac-Mata'/></a>                                                              |         全中转机场，目前套餐附带三个 emby：Peach Emby、1111 Emby 和 PiliPili，0.3X-1X倍率的节点，冷门节点也有些，但是不一定能用，所以就当他是拥有常见热门地区的机场就行了。机场节点数量挺多的，但是一挂的话容易挂一片节点，但是不会全部挂掉。有个对小流量用户比较友好的低价年付套餐。总体而言，性价比也不错。机场主是个奇怪的人（喜欢说让人当 TA 的**星怒**以及说让人滚的机场主，但应该不是坏人，只是某方面的**癖好比较独特**？）。         |                                                               [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD)                                                               |
-|   黑暗森林    |                                                                            <a href="https://postimg.cc/CdX8jrbC" target="_blank"><img src="https://i.postimg.cc/CdX8jrbC/24-6-26.png" alt="24-6-26"/></a>                                                                             |                       中转+高倍率IEPL专线机场、用有常见的热门地区节点。提供较全的流媒体解锁，除热门节点外还有马来西亚、希腊、英国、丹麦、荷兰、西班牙、卢森堡、法国、斯洛伐克、瑞士、爱沙尼亚、瑞典、冰岛、乌克兰、摩尔多瓦等节点（有**台湾家宽节点、IPLC节点、游戏节点**——需要工单开通）。拥有 0.3X-5X 倍率的节点，机场主**喜欢打瓦**，欢迎小伙伴一起来。                        |                                                                [黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug)                                                                 |
-| EdNovas  |                                                                   <a href="https://postimg.cc/1VfpyLwX" target="_blank"><img src="https://i.postimg.cc/1VfpyLwX/24-6-26-Ed-Novas.png" alt="24-6-26-Ed-Novas"/></a>                                                                    |                                                                              **180+节点**，也是很多冷门地区的节点，不过被打后节点只有三分之二在线。机场主在国外，有事需要凌晨左右找他。                                                                               |                                                                 [EdNovas](https://ednovas.org/#/register?code=NEaJe9Vm)                                                                 |
-|    次元云    |                                                                            <a href='https://postimg.cc/JDJG4L0H' target='_blank'><img src='https://i.postimg.cc/JDJG4L0H/24-8-8.png' border='0' alt='24-8-8'/></a>                                                                             |                 中转机场（~~香港某些节点偷偷上了**专线**~~），四年老机场，被打之前性价比和稳定性十分高，拥有常见热门地区的节点，还有法国、挪威、马来西亚、印度、越南、土耳其、澳大利亚、泰国、英国等地区节点！今年五月份被打后有些一蹶不振，但正在慢慢恢复中。性价比不是最高的，但是**做活动的时候性价比很高**。比如三周年套餐就是 100+ 元，一年3T流量，没用完的话下年继续重置流量！                 |                                                                     [次元云](https://ciyy.cc/#/register?code=9B4x7pu0)                                                                      |
-| tutucloud |                                                                  <a href="https://postimg.cc/HJdXrJXf" target="_blank"><img src="https://i.postimg.cc/HJdXrJXf/24-6-26-tutucloud.png" alt="24-6-26-tutucloud"/></a>                                                                   |                                                                                 大部分中转、三个直连节点的**小众精品机场**。提供较全的流媒体解锁，除热门节点外还有印度、澳门等节点。                                                                                 |                                                            [tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)                                                            |
-|    COO    |                                                                        <a href="https://postimg.cc/bG90g0qy" target="_blank"><img src="https://i.postimg.cc/bG90g0qy/24-6-26-COO.png" alt="24-6-26-COO"/></a>                                                                         | 全中转机场、用有常见的热门地区节点。各种套餐，年付、月付、不限时，你能想到的基本上都有，**性价比很高**。是23年开的机场，那时候发展势头挺猛的，各个群里都有人在推，所以我也买了。那时候老板爱折腾，所以线路的稳定性一般，不过那时候线路有0.1X，这还要啥自行车。后来不知是什么原因被打了，群组一直禁言中，不过老板给每人补了1T流量。那时候我以为会跑路，但今年四五月份看的时候，还活的好好的。总的来说，机场的体验还算可以，虽然目前也没什么优惠券了，但价格很实惠，所以各位就根据自己的情况选择吧。 |                                                                   [COO](https://web.coo.wiki/#/register?code=Hl02XboO)                                                                   |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">中转机场</th>
+      <th style="text-align: center">价格流量图</th>
+      <th style="text-align: center">评价</th>
+      <th style="text-align: center">注册官网（大部分是网页注册的，除了 JAY 云是 TG 上机器人注册的）</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Jay 云</td>
+      <td style="text-align: center"><a href="https://postimg.cc/GTbc7ftv" target="_blank"><img src="https://i.postimg.cc/GTbc7ftv/09-25-2024.png" border="0" alt="09-25-2024"></a></td>
+      <td style="text-align: center">主中转机场+香港IEPL专线、<strong>京德线路</strong>、<del>落地大部分 <em>misaka</em> 机器；大部分套餐送 <strong>1111 emby</strong>账号</del>；目前上线了<strong>白嫖套餐</strong>！性价比高，解锁不错，除热门节点外还有比较多的家宽（<strong>香港HKT</strong>、台湾、越南、马来西亚、意大利、波兰、尼日利亚、尼泊尔）、土耳其、等节点；0.01X emby、0.5X、0.8X、1X、10X 倍率节点。<strong>注册送2元余额</strong>（现在可能没了）。解锁不错，<del>0.01X倍率节点适配大部分的 Emby 服（<strong>就是说即使你的机场不是他家送的emby服，也是可以用0.01X倍率的节点进行观看</strong>）</del>。机场主常在线解决问题。</td>
+      <td style="text-align: center"><a href="https://t.me/jaycloudbot?start=9">Jay 云 TG bot注册地址</a>、 <a href="https://discord.gg/eBkvMwaFwC">Jay 云 discord 注册地址</a>、 <a href="https://jaybest.one/#/register?code=9">Jay 云官网注册地址</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">To2</td>
+      <td style="text-align: center"><a href="https://postimg.cc/rD6SLZmy" target="_blank"><img src="https://i.postimg.cc/rD6SLZmy/24-6-26-To2.png" alt="24-6-26-To2"></a> <a href="https://postimg.cc/68dC6V2r" target="_blank"><img src="https://i.postimg.cc/68dC6V2r/24-6-26-To2.png" alt="24-6-26-To2"></a></td>
+      <td style="text-align: center">大部分中转、两个直连的<strong>小众精品机场</strong>，8K秒开。价格很低，默认 0.5X、1X倍率节点。提供较全的流媒体解锁，除热门节点外还有菲律宾、土耳其、阿根廷、泰国、埃及、巴基斯坦、尼日利亚、印度、越南、缅甸、澳门等低价区购物节点（有<strong>台湾家宽节点</strong>）。</td>
+      <td style="text-align: center"><a href="https://air.totwo.link/#/register?code=3B4bS6ls">To2</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">星遇 Next</td>
+      <td style="text-align: center"><a href="https://postimg.cc/2VPGpXD1" target="_blank"><img src="https://i.postimg.cc/2VPGpXD1/24-8-7-Next.png" alt="24-8-7-Next"></a></td>
+      <td style="text-align: center">中转机场、之前有<strong>唯云</strong>的机子，但是被打后下掉了。即使如此，性价比也很高；三年付套餐<strong>每月150G/4元</strong>；年付套餐每月150G/5.4元。机器是正价机器，所以稳定性还不错（除了有人打的时候）；8-30号的时候，被D的情况很少见了，珠三角那边的晚高峰单线程能有500兆左右。老板也很有实力，开了不少分站，这次下场卷TG里的价格。</td>
+      <td style="text-align: center"><a href="https://px.xinyo.me/register?code=z3GdLANE">星遇 Next</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">渔舍</td>
+      <td style="text-align: center"><a href="https://postimg.cc/cr3nT7cp" target="_blank"><img src="https://i.postimg.cc/cr3nT7cp/Snipaste-2024-06-26-04-48-14.png" alt="Snipaste-2024-06-26-04-48-14"></a></td>
+      <td style="text-align: center">大部分中转、一个直连的小众机场、拥有常见的热门节点、目前香港节点是深港线路。某机场主二开机场，机场<strong>性价比很高</strong>，<del>目前会随机重置已用完的套餐流量</del>（目前因有人恶意刷流量取消该福利），这个价位少数用<strong>独享</strong>机器的机场，懂的都懂。</td>
+      <td style="text-align: center"><a href="https://dash.yushe.org/#/register?code=suRIJAHQ">渔舍</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">CTC</td>
+      <td style="text-align: center"><a href="https://postimg.cc/Nyc7RCqC" target="_blank"><img src="https://i.postimg.cc/Nyc7RCqC/24-6-26-CTC.png" alt="24-6-26-CTC"></a></td>
+      <td style="text-align: center">中转机场+IEPL专线、拥有常见热门地区的节点。拥有 <strong>0.1X-1X 倍率</strong>的节点（不定时改倍率，请及时刷新订阅查看节点的倍率情况），<strong>0.7X 倍率</strong>及以上是IEPL专线节点。这是个<strong>精美的小机场</strong>，TG有群组，但是需要购买后才可以进群组。</td>
+      <td style="text-align: center"><a href="https://www.jinglongyu.com/#/register?code=uOyqq76d">CTC</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Fac</td>
+      <td style="text-align: center"><a href="https://postimg.cc/k6jQ3nVL" target="_blank"><img src="https://i.postimg.cc/k6jQ3nVL/24-6-26-Fac-Mata.png" border="0" alt="24-6-26-Fac-Mata"></a></td>
+      <td style="text-align: center">全中转机场，目前套餐附带三个 emby：Peach Emby、1111 Emby 和 PiliPili，0.3X-1X倍率的节点，冷门节点也有些，但是不一定能用，所以就当他是拥有常见热门地区的机场就行了。机场节点数量挺多的，但是一挂的话容易挂一片节点，但是不会全部挂掉。有个对小流量用户比较友好的低价年付套餐。总体而言，性价比也不错。机场主是个奇怪的人（喜欢说让人当 TA 的<strong>星怒</strong>以及说让人滚的机场主，但应该不是坏人，只是某方面的<strong>癖好比较独特</strong>？）。</td>
+      <td style="text-align: center"><a href="https://entrance.facmata.net/#/register?code=MAQFTRDD">FAC</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">黑暗森林</td>
+      <td style="text-align: center"><a href="https://postimg.cc/CdX8jrbC" target="_blank"><img src="https://i.postimg.cc/CdX8jrbC/24-6-26.png" alt="24-6-26"></a></td>
+      <td style="text-align: center">中转+高倍率IEPL专线机场、用有常见的热门地区节点。提供较全的流媒体解锁，除热门节点外还有马来西亚、希腊、英国、丹麦、荷兰、西班牙、卢森堡、法国、斯洛伐克、瑞士、爱沙尼亚、瑞典、冰岛、乌克兰、摩尔多瓦等节点（有<strong>台湾家宽节点、IPLC节点、游戏节点</strong>——需要工单开通）。拥有 0.3X-5X 倍率的节点，机场主<strong>喜欢打瓦</strong>，欢迎小伙伴一起来。</td>
+      <td style="text-align: center"><a href="https://a1.darkforest.cloud/#/register?code=ctj0rXug">黑暗森林</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">EdNovas</td>
+      <td style="text-align: center"><a href="https://postimg.cc/1VfpyLwX" target="_blank"><img src="https://i.postimg.cc/1VfpyLwX/24-6-26-Ed-Novas.png" alt="24-6-26-Ed-Novas"></a></td>
+      <td style="text-align: center"><strong>180+节点</strong>，也是很多冷门地区的节点，不过被打后节点只有三分之二在线。机场主在国外，有事需要凌晨左右找他。</td>
+      <td style="text-align: center"><a href="https://ednovas.org/#/register?code=NEaJe9Vm">EdNovas</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">次元云</td>
+      <td style="text-align: center"><a href="https://postimg.cc/JDJG4L0H" target="_blank"><img src="https://i.postimg.cc/JDJG4L0H/24-8-8.png" border="0" alt="24-8-8"></a></td>
+      <td style="text-align: center">中转机场（<del>香港某些节点偷偷上了<strong>专线</strong></del>），四年老机场，被打之前性价比和稳定性十分高，拥有常见热门地区的节点，还有法国、挪威、马来西亚、印度、越南、土耳其、澳大利亚、泰国、英国等地区节点！今年五月份被打后有些一蹶不振，但正在慢慢恢复中。性价比不是最高的，但是<strong>做活动的时候性价比很高</strong>。比如三周年套餐就是 100+ 元，一年3T流量，没用完的话下年继续重置流量！</td>
+      <td style="text-align: center"><a href="https://ciyy.cc/#/register?code=9B4x7pu0">次元云</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">tutucloud</td>
+      <td style="text-align: center"><a href="https://postimg.cc/HJdXrJXf" target="_blank"><img src="https://i.postimg.cc/HJdXrJXf/24-6-26-tutucloud.png" alt="24-6-26-tutucloud"></a></td>
+      <td style="text-align: center">大部分中转、三个直连节点的<strong>小众精品机场</strong>。提供较全的流媒体解锁，除热门节点外还有印度、澳门等节点。</td>
+      <td style="text-align: center"><a href="https://qiang.tutucloud.shop/#/register?code=N8eTmQce">tutucloud</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">COO</td>
+      <td style="text-align: center"><a href="https://postimg.cc/bG90g0qy" target="_blank"><img src="https://i.postimg.cc/bG90g0qy/24-6-26-COO.png" alt="24-6-26-COO"></a></td>
+      <td style="text-align: center">全中转机场、用有常见的热门地区节点。各种套餐，年付、月付、不限时，你能想到的基本上都有，<strong>性价比很高</strong>。是23年开的机场，那时候发展势头挺猛的，各个群里都有人在推，所以我也买了。那时候老板爱折腾，所以线路的稳定性一般，不过那时候线路有0.1X，这还要啥自行车。后来不知是什么原因被打了，群组一直禁言中，不过老板给每人补了1T流量。那时候我以为会跑路，但今年四五月份看的时候，还活的好好的。总的来说，机场的体验还算可以，虽然目前也没什么优惠券了，但价格很实惠，所以各位就根据自己的情况选择吧。</td>
+      <td style="text-align: center"><a href="https://web.coo.wiki/#/register?code=Hl02XboO">COO</a></td>
+    </tr>
+  </tbody>
+</table>
 
+</details>
 
 
 #### 3.2.2 专线机场
 
+<details>
+    <summary>专线机场</summary>
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">自称专线的机场</th>
+      <th style="text-align: center">价格流量图</th>
+      <th style="text-align: center">评价</th>
+      <th style="text-align: center">注册官网</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">渔云</td>
+      <td style="text-align: center"><a href="https://postimg.cc/Dms1f01Y" target="_blank"><img src="https://i.postimg.cc/Dms1f01Y/24-9-4-Cloud-Fisher.png" border="0" alt="24-9-4-Cloud-Fisher"></a> <a href="https://postimg.cc/FY5gc7c8" target="_blank"><img src="https://i.postimg.cc/FY5gc7c8/24-9-2-Cloud-Fisher.png" alt="24-9-2-Cloud-Fisher"></a></td>
+      <td style="text-align: center">开了也有三个月的 IEPL 机场（因为性价比的原因，中间经历了被打、换高防机器、加中转、下掉中转、重新加中转等过程，期间经历了不少波折！但发展还算是比较平稳的，至少机场主承诺的事都做到了。套餐在9-2号涨价，但性价比依然很高！），<strong>120G/7 限时套餐</strong>，<strong>1T/70 不限时套餐</strong>，<strong>性价比依旧很高很高</strong>！开业没几天就整上某鼠的 Emby 了。不过是<strong>月付套餐支持</strong>，年付套餐和不限时套餐是不支持的（emby 服务商那边要求的）！！！如果不跑路的话买到就是挣！机场套餐是提供常见的热门节点地区，9月中旬加了不少冷门节点——包括欧洲、美洲、中东、非洲地区的节点。</td>
+      <td style="text-align: center"><a href="https://cloudfisher.net/web/#/login?code=Eu3xPxoc">渔云注册</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">红杏</td>
+      <td style="text-align: center"><a href="https://postimg.cc/Jsr4NcDF" target="_blank"><img src="https://i.postimg.cc/Jsr4NcDF/24-8-1.png" alt="24-8-1"></a></td>
+      <td style="text-align: center">开了快一年的专线机场，<del>最近的半年付以及年付套餐上了<strong>唯云专线</strong></del>（目前<strong>唯云专线</strong>逐渐在各个机场中消失，包括各大一线机场。这可能是由于某些政策的原因。），机场主<strong>在国外</strong>、<strong>有团队</strong>、<strong>有实力</strong>的一家机场。该机场<strong>可薅羊毛</strong>（有人通过你的订阅买套餐时，可开工单申请延长订阅时长！），企业套餐可<strong>开发票</strong>。落地大部分 <strong>misaka 机器</strong>，提供较全的流媒体解锁，除热门节点外还有尼日利亚、南非、俄罗斯以及较全的<strong>欧洲节点</strong>（英、法、爱尔兰、德国、奥地利、波兰、丹麦、荷兰、捷克、克罗地亚、罗马尼亚、葡萄牙、瑞士、希腊、意大利、西班牙、乌克兰）。就是有个小缺点：就是月付最低价格的套餐的带宽是100Mbps，对于一般用户是够用了的（满足油管4K要求），<strong>年付</strong>的带宽则是1000Mbps（八月初套餐已涨价，机场主不打算内卷价格）。</td>
+      <td style="text-align: center"><a href="https://hx666.info/#/register?code=i1fYOnIi">红杏</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Wcloud</td>
+      <td style="text-align: center"><a href="https://postimg.cc/0zr1Tk5k" target="_blank"><img src="https://i.postimg.cc/0zr1Tk5k/Wcloud-09-27.png" border="0" alt="Wcloud-09-27"></a></td>
+      <td style="text-align: center">TG频道建立半年左右的一个小机场，很少推广。节点国家是是常见的五大热门区域；这家机场有中转和IPLC线路，中转1x倍率，IPLC 2x倍率，带宽冗余很多，所以<strong>晚高峰的表现也很不错</strong>；目前这家稳定性和速度都很不错，所以还是很值得推荐的。</td>
+      <td style="text-align: center"><a href="https://wcloud.me/register?code=GZBeG8OO">Wcloud</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Linkeless</td>
+      <td style="text-align: center"><a href="https://postimg.cc/cK2tz0bc" target="_blank"><img src="https://i.postimg.cc/cK2tz0bc/24-7-24-Linkeless.png" border="0" alt="24-7-24-Linkeless"></a></td>
+      <td style="text-align: center">提供常见的热门节点地区，目前正式开业，已经涨价结束，后续会有0.2X倍率的节点，节点的名称我很喜欢，可以很快找到自己适合的节点。<strong>阿里云入口</strong>，广港、杭港、沪日、京港、京德线路，阿里云入口，机场主也是很有实力的。<del><strong>但是九月份上旬阿里云的灵车被封禁，各个用阿里云灵车的机场也纷纷下架该机器。                                         这家机场也不例外，节点纷纷限速。目前不提供购买渠道。</strong></del></td>
+      <td style="text-align: center"><a href="https://linkeless.com/#/register?code=sr1Tg8Km">Linkeless</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">飞天猪</td>
+      <td style="text-align: center"><a href="https://postimg.cc/75KK7YCL" target="_blank"><img src="https://i.postimg.cc/75KK7YCL/24-9-15.png" border="0" alt="24-9-15"></a></td>
+      <td style="text-align: center"><strong>IEPL 全专线机场</strong>，5G口子的机场，拥有常见的热门地区节点。提供较全的流媒体解锁，我朋友很喜欢用这机场<strong>刷油管</strong>。<strong>年付小包套餐</strong>也是很有吸引力的。</td>
+      <td style="text-align: center"><a href="https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH">飞天猪</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Arisaka</td>
+      <td style="text-align: center"><a href="https://postimg.cc/dDkW2C2v" target="_blank"><img src="https://i.postimg.cc/dDkW2C2v/24-8-9-Arisaka.png" alt="24-8-9-Arisaka"></a></td>
+      <td style="text-align: center">深港 IEPL 专线机场，拥有常见的热门地区节点。提供较全的流媒体解锁，<strong>年付套餐</strong>也是比较有吸引力的，<strong>每年可重置流量</strong>。</td>
+      <td style="text-align: center"><a href="https://arisaka.io/#/register?code=1TFEExPW">Arisaka</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3A 加速</td>
+      <td style="text-align: center"><a href="https://postimg.cc/5X9jkbft" target="_blank"><img src="https://i.postimg.cc/5X9jkbft/24-9-03-3-A.png" border="0" alt="24-9-03-3-A"></a></td>
+      <td style="text-align: center"><strong>IPLC 全专线机场</strong>，目前正在使用，拥有常见热门地区的节点。香港节点的体验很不错，<strong>5G</strong> 的大口子，有家宽IP，一直有优惠，最近上线了年付套餐，可以叠加优惠券，感兴趣的小伙伴可以去瞧瞧。</td>
+      <td style="text-align: center"><a href="https://cc01.aaaspeed.pro/#/register?code=zQm59rB0">3A 加速</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Fancy Network</td>
+      <td style="text-align: center"><a href="https://postimg.cc/2V1dSh3K" target="_blank"><img src="https://i.postimg.cc/2V1dSh3K/23-8-12-Fancy-network.png" alt="23-8-12-Fancy-network"></a></td>
+      <td style="text-align: center">唯云线路的机场，因为套了前置，所以延迟比不套前置的唯云机场高些，且拓扑图里没有唯云入口（都是为了抗揍）。目前来说是性价比最高的唯云线路了。目前来说，是值得期待的一家唯云机场（<strong>这个观点保持存疑，因为九月份各大一线机场纷纷下架唯云专线，我不认为他会独善其身。</strong>）。目前体验也不错，测的单线程有1000M++。</td>
+      <td style="text-align: center"><a href="https://dash.justfancy.net/register?code=oYZ5P9Oi">Fancy Network</a></td>
+    </tr>
+  </tbody>
+</table>
 
-|  自称专线的机场  |                                                                                                                                                       价格流量图                                                                                                                                                       |                                                                                                              评价                                                                                                              |                              注册官网                               |
-| :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-|    渔云     | <a href='https://postimg.cc/Dms1f01Y' target='_blank'><img src='https://i.postimg.cc/Dms1f01Y/24-9-4-Cloud-Fisher.png' border='0' alt='24-9-4-Cloud-Fisher'/></a> <a href="https://postimg.cc/FY5gc7c8" target="_blank"><img src="https://i.postimg.cc/FY5gc7c8/24-9-2-Cloud-Fisher.png" alt="24-9-2-Cloud-Fisher"/></a> |            开了也有三个月的 IEPL 机场（因为性价比的原因，中间经历了被打、换高防机器、加中转、下掉中转、重新加中转等过程，期间经历了不少波折！但发展还算是比较平稳的，至少机场主承诺的事都做到了。套餐在9-2号涨价，但性价比依然很高！），**120G/7 限时套餐**，**1T/70 不限时套餐**，**性价比依旧很高很高**！开业没几天就整上某鼠的 Emby 了。不过是**月付套餐支持**，年付套餐和不限时套餐是不支持的（emby 服务商那边要求的）！！！如果不跑路的话买到就是挣！机场套餐是提供常见的热门节点地区，9月中旬加了不少冷门节点——包括欧洲、美洲、中东、非洲地区的节点。            |    [渔云注册](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)    |
-|    红杏     |                                                                                          <a href="https://postimg.cc/Jsr4NcDF" target="_blank"><img src="https://i.postimg.cc/Jsr4NcDF/24-8-1.png" alt="24-8-1"/></a>                                                                                           | 开了快一年的专线机场，~~最近的半年付以及年付套餐上了**唯云专线**~~（目前**唯云专线**逐渐在各个机场中消失，包括各大一线机场。这可能是由于某些政策的原因。），机场主**在国外**、**有团队**、**有实力**的一家机场。该机场**可薅羊毛**（有人通过你的订阅买套餐时，可开工单申请延长订阅时长！），企业套餐可**开发票**。落地大部分 **misaka 机器**，提供较全的流媒体解锁，除热门节点外还有尼日利亚、南非、俄罗斯以及较全的**欧洲节点**（英、法、爱尔兰、德国、奥地利、波兰、丹麦、荷兰、捷克、克罗地亚、罗马尼亚、葡萄牙、瑞士、希腊、意大利、西班牙、乌克兰）。就是有个小缺点：就是月付最低价格的套餐的带宽是100Mbps，对于一般用户是够用了的（满足油管4K要求），**年付**的带宽则是1000Mbps（八月初套餐已涨价，机场主不打算内卷价格）。 |        [红杏](https://hx666.info/#/register?code=i1fYOnIi)        |
-|    Wcloud     |                                                                                          <a href='https://postimg.cc/0zr1Tk5k' target='_blank'><img src='https://i.postimg.cc/0zr1Tk5k/Wcloud-09-27.png' border='0' alt='Wcloud-09-27'/></a>                                                                                           | TG频道建立半年左右的一个小机场，很少推广。节点国家是是常见的五大热门区域；这家机场有中转和IPLC线路，中转1x倍率，IPLC 2x倍率，带宽冗余很多，所以**晚高峰的表现也很不错**；目前这家稳定性和速度都很不错，所以还是很值得推荐的。 |        [Wcloud](https://wcloud.me/register?code=GZBeG8OO)        |
-|   Linkeless   |                                                                                <a href='https://postimg.cc/cK2tz0bc' target='_blank'><img src='https://i.postimg.cc/cK2tz0bc/24-7-24-Linkeless.png' border='0' alt='24-7-24-Linkeless'/></a>                                                                                 |                                                                                   提供常见的热门节点地区，目前正式开业，已经涨价结束，后续会有0.2X倍率的节点，节点的名称我很喜欢，可以很快找到自己适合的节点。**阿里云入口**，广港、杭港、沪日、京港、京德线路，阿里云入口，机场主也是很有实力的。~~**但是九月份上旬阿里云的灵车被封禁，各个用阿里云灵车的机场也纷纷下架该机器。                                         这家机场也不例外，节点纷纷限速。目前不提供购买渠道。**~~                                          |   [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)   |
-|    飞天猪    |                                                                                          <a href='https://postimg.cc/75KK7YCL' target='_blank'><img src='https://i.postimg.cc/75KK7YCL/24-9-15.png' border='0' alt='24-9-15'/></a>                                                                                           |                                                                         **IEPL 全专线机场**，5G口子的机场，拥有常见的热门地区节点。提供较全的流媒体解锁，我朋友很喜欢用这机场**刷油管**。**年付小包套餐**也是很有吸引力的。                                                                          | [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH) |
-|  Arisaka  |                                                                                  <a href="https://postimg.cc/dDkW2C2v" target="_blank"><img src="https://i.postimg.cc/dDkW2C2v/24-8-9-Arisaka.png" alt="24-8-9-Arisaka"/></a>                                                                                   |                                                                                       深港 IEPL 专线机场，拥有常见的热门地区节点。提供较全的流媒体解锁，**年付套餐**也是比较有吸引力的，**每年可重置流量**。                                                                                        |   [Arisaka](https://arisaka.io/#/register?code=1TFEExPW)    |
-|  3A 加速   |                                                                                 <a href='https://postimg.cc/5X9jkbft' target='_blank'><img src='https://i.postimg.cc/5X9jkbft/24-9-03-3-A.png' border='0' alt='24-9-03-3-A'/></a>                                                                                 |                                                                           **IPLC 全专线机场**，目前正在使用，拥有常见热门地区的节点。香港节点的体验很不错，**5G** 的大口子，有家宽IP，一直有优惠，最近上线了年付套餐，可以叠加优惠券，感兴趣的小伙伴可以去瞧瞧。                                                                            |  [3A 加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0)   |
-|  Fancy Network   |                                                                                 <a href="https://postimg.cc/2V1dSh3K" target="_blank"><img src="https://i.postimg.cc/2V1dSh3K/23-8-12-Fancy-network.png" alt="23-8-12-Fancy-network"/></a>                                                                                 |                                                                           唯云线路的机场，因为套了前置，所以延迟比不套前置的唯云机场高些，且拓扑图里没有唯云入口（都是为了抗揍）。目前来说是性价比最高的唯云线路了。目前来说，是值得期待的一家唯云机场（**这个观点保持存疑，因为九月份各大一线机场纷纷下架唯云专线，我不认为他会独善其身。**）。目前体验也不错，测的单线程有1000M++。                                                                            |  [Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi)   |
-
-
+</details>
 
 
 #### 3.2.3 直连机场
 
+<details>
+    <summary>直连机场</summary>
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">直连机场</th>
+      <th style="text-align: center">价格流量图</th>
+      <th style="text-align: center">评价</th>
+      <th style="text-align: center">注册官网</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">最长跑道</td>
+      <td style="text-align: center"><a href="https://postimg.cc/dhKTf7HL" target="_blank"><img src="https://i.postimg.cc/dhKTf7HL/Snipaste-2024-06-26-04-49-49.png" alt="Snipaste-2024-06-26-04-49-49"></a></td>
+      <td style="text-align: center"><strong>优化直连线路</strong>机场，有试用，是 Vless Reality + Hy2 协议，节点数量比较少，节点是 0.5X-1.5X 倍率。目前是<strong>新疆那边体验最好</strong>的一家直连机场之一（目前未在TG上运营）。</td>
+      <td style="text-align: center"><a href="https://zcpdao.com/#/register?code=4GTFiwW2">最长跑道</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">最强机场</td>
+      <td style="text-align: center"><a href="https://postimg.cc/8F4QxRhG" target="_blank"><img src="https://i.postimg.cc/8F4QxRhG/09-21-2024.png" border="0" alt="09-21-2024"></a></td>
+      <td style="text-align: center"><strong>优化直连线路</strong>机场，目前是 Vless+Trojan 协议，<strong>性价比极高</strong>，有十元一年的套餐！机场主目前在找最合适大家上网的协议中。香港节点拥有<strong>专线级的延迟</strong>，部分节点的速度能达到2000Mbps，节点数量虽然不多，但也是做了负载均衡了的。节点是 1X 倍率（但我在测速的时候发现了流量统计BUG，也就是说你用了几十G流量后，实际统计的只有2G不到！<strong>早用早薅羊毛</strong>）。</td>
+      <td style="text-align: center"><a href="https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3">最强机场</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">CTC2</td>
+      <td style="text-align: center"><a href="https://postimg.cc/5jZjgCy4" target="_blank"><img src="https://i.postimg.cc/5jZjgCy4/CTC2-09-24-2024-02.png" alt="CTC2-09-24-2024-02"></a></td>
+      <td style="text-align: center">也是<strong>优化直连线路</strong>机场，是 Vless Reality 协议，节点数量也不多，节点是 0.03X-10X 倍率，他家比较适合电信、移动、联通的用户，要看准套餐内容再买。目前也是新疆那边体验最好的一家直连机场之一。之前出了年付15元保号套餐，最近下架了年付120的套餐，上架了移动和联通的专属套餐。但是这家只能半年付或者年付（月付套餐很贵；如果不看半年付的付款方式，这家直连机场的确很棒；不过在优化线路的直连机场中，这家的半年付套餐也是挺有性价比的）。 <strong>注意点</strong>：0倍率节点单日最高只能使用100G，不然会被限制使用7天的账号。</td>
+      <td style="text-align: center"><a href="https://www.ctc.run/#/register?code=mHZErEhf">CTC2</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Best VPN</td>
+      <td style="text-align: center"><a href="https://postimg.cc/9DTYR5Sq" target="_blank"><img src="https://i.postimg.cc/9DTYR5Sq/24-6-26-Best-VPN.png" alt="24-6-26-Best-VPN"></a></td>
+      <td style="text-align: center">也是<strong>优化直连线路</strong>的机场，是 Hy1 + Hy2 协议（HY1限速100兆，HY2不限速），节点数量比较多，节点是 1X-2X 倍率。<strong>新加坡的 TG PING 很低</strong>，大白话来讲：用他家的新加坡节点刷TG很爽（但晚高峰一般）。除热门地区的节点外，还有<strong>比较多的冷门节点</strong>（越南、瑞典、俄罗斯、加拿大、荷兰、法国、德国西班牙、英国、墨西哥、澳洲、瑞士、印度、阿联酋、智利、巴西、阿根廷、南非、意大利、以色列等节点）。我这边东部使用还可以，但是我那新疆的朋友说使用体验一般。</td>
+      <td style="text-align: center"><a href="https://go.bv2.xyz/#/register?code=G9hwKOnV">Best VPN（大）</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">狗狗加速</td>
+      <td style="text-align: center"><a href="https://postimg.cc/NL5T2v2f" target="_blank"><img src="https://i.postimg.cc/NL5T2v2f/24-6-26.png" alt="24-6-26"></a></td>
+      <td style="text-align: center">和 Best VPN 同样的情况。Best VPN 是不限时套餐，狗狗加速全是限时套餐。</td>
+      <td style="text-align: center"><a href="https://www.dg7.top/#/register?code=bST0uL9q">狗狗加速</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Rec</td>
+      <td style="text-align: center"><a href="https://postimg.cc/dLr3xVZ8" target="_blank"><img src="https://i.postimg.cc/dLr3xVZ8/Rec-Mata-09-24-2024.png" alt="Rec-Mata-09-24-2024"></a></td>
+      <td style="text-align: center">和 CTC2 很像的一家机场（<strong>比 CTC2 节点数量多</strong>不少！），他家比较适合电信和移动的用户，要看准套餐内容再买。套餐内的 25Mbpb和150Mbps 带宽限速就比较迷（150Mbps 和 25Mbps 限速的套餐价格一样，就是 150Mbps 的流量少些，不过用 0.1X 倍率的节点还是够用的！）。最近和 CTC2 一样，新上了移动的专属套餐。而且 150Mbps 对于大部分人来说是够了的，看油管 4K 绰绰有余（自从我看到某家机场限速 100Mbps，年付 300 的时候，我发现这家机场也是挺有良心的）。节点是 0.1X-10X 倍率。</td>
+      <td style="text-align: center"><a href="https://my.recmata.net/#/register?code=oOcZX7qQ">REC</a></td>
+    </tr>
+  </tbody>
+</table>
 
-| 直连机场 |                                                                                     价格流量图                                                                                     |                                                                                                                                                    评价                                                                                                                                                   |                                   注册官网                                  |
-|:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| 最长跑道 |      <a href="https://postimg.cc/dhKTf7HL" target="_blank"><img src="https://i.postimg.cc/dhKTf7HL/Snipaste-2024-06-26-04-49-49.png" alt="Snipaste-2024-06-26-04-49-49"/></a>      |                                                                                                 **优化直连线路**机场，有试用，是 Vless Reality + Hy2 协议，节点数量比较少，节点是 0.5X-1.5X 倍率。目前是**新疆那边体验最好**的一家直连机场之一（目前未在TG上运营）。                                                                                                 |           [最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)           |
-| 最强机场 |      <a href='https://postimg.cc/8F4QxRhG' target='_blank'><img src='https://i.postimg.cc/8F4QxRhG/09-21-2024.png' border='0' alt='09-21-2024'/></a>      |                                                                                                 **优化直连线路**机场，目前是 Vless+Trojan 协议，**性价比极高**，有十元一年的套餐！机场主目前在找最合适大家上网的协议中。香港节点拥有**专线级的延迟**，部分节点的速度能达到2000Mbps，节点数量虽然不多，但也是做了负载均衡了的。节点是 1X 倍率（但我在测速的时候发现了流量统计BUG，也就是说你用了几十G流量后，实际统计的只有2G不到！**早用早薅羊毛**）。                                                                                                 |           [最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3)           |
-|   CTC2   |     <a href="https://postimg.cc/5jZjgCy4" target="_blank"><img src="https://i.postimg.cc/5jZjgCy4/CTC2-09-24-2024-02.png" alt="CTC2-09-24-2024-02"/></a>     |                                                                                也是**优化直连线路**机场，是 Vless Reality 协议，节点数量也不多，节点是 0.03X-10X 倍率，他家比较适合电信、移动、联通的用户，要看准套餐内容再买。目前也是新疆那边体验最好的一家直连机场之一。之前出了年付15元保号套餐，最近下架了年付120的套餐，上架了移动和联通的专属套餐。但是这家只能半年付或者年付（月付套餐很贵；如果不看半年付的付款方式，这家直连机场的确很棒；不过在优化线路的直连机场中，这家的半年付套餐也是挺有性价比的）。 **注意点**：0倍率节点单日最高只能使用100G，不然会被限制使用7天的账号。                                                                               |             [CTC2](https://www.ctc.run/#/register?code=mHZErEhf)            |
-| Best VPN |                  <a href="https://postimg.cc/9DTYR5Sq" target="_blank"><img src="https://i.postimg.cc/9DTYR5Sq/24-6-26-Best-VPN.png" alt="24-6-26-Best-VPN"/></a>                  | 也是**优化直连线路**的机场，是 Hy1 + Hy2 协议（HY1限速100兆，HY2不限速），节点数量比较多，节点是 1X-2X 倍率。**新加坡的 TG PING 很低**，大白话来讲：用他家的新加坡节点刷TG很爽（但晚高峰一般）。除热门地区的节点外，还有**比较多的冷门节点**（越南、瑞典、俄罗斯、加拿大、荷兰、法国、德国西班牙、英国、墨西哥、澳洲、瑞士、印度、阿联酋、智利、巴西、阿根廷、南非、意大利、以色列等节点）。我这边东部使用还可以，但是我那新疆的朋友说使用体验一般。 |        [Best VPN（大）](https://go.bv2.xyz/#/register?code=G9hwKOnV)        |
-| 狗狗加速 |                           <a href="https://postimg.cc/NL5T2v2f" target="_blank"><img src="https://i.postimg.cc/NL5T2v2f/24-6-26.png" alt="24-6-26"/></a>                           |                                                                                                                                          和 Best VPN 同样的情况。Best VPN 是不限时套餐，狗狗加速全是限时套餐。                                                                                                                                         |           [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)          |
-|    Rec   |                  <a href="https://postimg.cc/dLr3xVZ8" target="_blank"><img src="https://i.postimg.cc/dLr3xVZ8/Rec-Mata-09-24-2024.png" alt="Rec-Mata-09-24-2024"/></a>                  |                                                                                                       和 CTC2 很像的一家机场（**比 CTC2 节点数量多**不少！），他家比较适合电信和移动的用户，要看准套餐内容再买。套餐内的 25Mbpb和150Mbps 带宽限速就比较迷（150Mbps 和 25Mbps 限速的套餐价格一样，就是 150Mbps 的流量少些，不过用 0.1X 倍率的节点还是够用的！）。最近和 CTC2 一样，新上了移动的专属套餐。而且 150Mbps 对于大部分人来说是够了的，看油管 4K 绰绰有余（自从我看到某家机场限速 100Mbps，年付 300 的时候，我发现这家机场也是挺有良心的）。节点是 0.1X-10X 倍率。                                                                                                       |            [REC](https://my.recmata.net/#/register?code=oOcZX7qQ)           |
-
+</details>
 
 
 #### 3.2.4 其他未使用过的专线机场
 
-
+<details>
+    <summary>其他未使用过的专线机场</summary>
+    
 以下大部分机场在TG上是有一些知名度的（这里面的机场本人大部分未使用过，但为了弥补个人推荐的机场的高端机场不足，也为了方便大家对比高端机场，所以特此放在这里）。
 在这里先把这些机场做个概述：
 - 唯云机场（目前**唯云四杰**已经变成**联通四杰**机场——他们的唯云机器已经下掉了）：[奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650)、[AmyTelecom](https://www.amytele.net)、[ImmTelecom](https://fuckimm.com/aff.php?aff=1344)、[Kuromi](https://www.kuromis.com)；这四家机场人称唯云四杰，其中奶昔算是四小杰之首。
@@ -135,26 +330,83 @@
 
 首先进入官网，然后点击购买套餐，接着输入账号、邮箱、密码等信息，最后点击支付。这样你就可以创建一个账号了（别忘记邮箱激活账号），支付账单可以不用管。
 
+</details>
 
-| 其他专线机场 |                                                                                                                                                                                                                                                                                           套餐情况                                                                                                                                                                                                                                                                                          |                                                 官网地址                                                |
-|:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
-|     奶昔     |                                                                                                                                                                                                                      <a href="https://postimg.cc/z3qWNPdC" target="_blank"><img src="https://i.postimg.cc/z3qWNPdC/24-7-21-Nexitally.png" alt="24-7-21-Nexitally"/></a>                                                                                                                                                                                                                     | [奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650) |
-|  AmyTelecom  |                                                                                                                                                                                                              <a href='https://postimg.cc/VrmSYdFf' target='_blank'><img src='https://i.postimg.cc/VrmSYdFf/24-7-21-Amy-Telecom.png' border='0' alt='24-7-21-Amy-Telecom'/></a>                                                                                                                                                                                                              |                            [AmyTelecom](https://www.amytele.net)                           |
-|  ImmTelecom  |                                                                                                                                        <a href="https://postimg.cc/ykYFmrc1" target="_blank"><img src="https://i.postimg.cc/ykYFmrc1/24-7-21-Imm-Telecom.png" alt="24-7-21-Imm-Telecom"/></a> <a href="https://postimg.cc/k22KZ6TL" target="_blank"><img src="https://i.postimg.cc/k22KZ6TL/24-7-21-Imm-Telecom.png" alt="24-7-21-Imm-Telecom"/></a>                                                                                                                                        |                                  [ImmTelecom](https://fuckimm.com/aff.php?aff=1344)                                  |
-|    Kuromi    | <a href="https://postimg.cc/G8CDHMb1" target="_blank"><img src="https://i.postimg.cc/G8CDHMb1/24-7-21-Kuromis.png" alt="24-7-21-Kuromis"/></a> <a href="https://postimg.cc/yJqgbfgS" target="_blank"><img src="https://i.postimg.cc/yJqgbfgS/24-7-21-Kuromis.png" alt="24-7-21-Kuromis"/></a> <a href="https://postimg.cc/v1998RFz" target="_blank"><img src="https://i.postimg.cc/v1998RFz/24-7-21-Kuromis.png" alt="24-7-21-Kuromis"/></a> <a href="https://postimg.cc/47Q9tz3H" target="_blank"><img src="https://i.postimg.cc/47Q9tz3H/24-7-21-Kuromis.png" alt="24-7-21-Kuromis"/></a> |                                    [Kuromi](https://www.kuromis.com)                                    |
-|      Tag     |                                                                                                                                                                                                              <a href='https://postimg.cc/Th2yF5wQ' target='_blank'><img src='https://i.postimg.cc/Th2yF5wQ/24-7-21-TAGInternet.png' border='0' alt='24-7-21-TAGInternet'/></a>                                                                                                                                                                                                              |                                [Tag](https://tagss04.pro/#/auth/6VKNYeoh)                               |
-|     花云     |                                                                                                                                      <a href="https://postimg.cc/TKBgXdS1" target="_blank"><img src="https://i.postimg.cc/TKBgXdS1/24-7-21-Flower-Cloud.png" alt="24-7-21-Flower-Cloud"/></a> <a href="https://postimg.cc/PP312zQm" target="_blank"><img src="https://i.postimg.cc/PP312zQm/24-7-21-Flower-Cloud.png" alt="24-7-21-Flower-Cloud"/></a>                                                                                                                                      |                             [花云](https://flowercloud.net/aff.php?aff=9199)                            |
-|     Ytoo     |                                                                                                                                                      <a href="https://postimg.cc/Yhsm12tR" target="_blank"><img src="https://i.postimg.cc/Yhsm12tR/24-7-21-YTOO.png" alt="24-7-21-YTOO"/></a> <a href="https://postimg.cc/BjPPNW60" target="_blank"><img src="https://i.postimg.cc/BjPPNW60/24-7-21-YTOO.png" alt="24-7-21-YTOO"/></a>                                                                                                                                                      |                                [Ytoo](https://y-too.com/aff.php?aff=5041)                               |
-|     Mesl     |                                                                                                                                                                                                                           <a href="https://postimg.cc/rRyt9Kdn" target="_blank"><img src="https://i.postimg.cc/rRyt9Kdn/24-7-21-MESL.png" alt="24-7-21-MESL"/></a>                                                                                                                                                                                                                          |                          [Mesl](https://in.mesl.cloud/#/register?code=4Dt95iV0)                         |
-|   西部数据   |                                                                                                                                            <a href="https://postimg.cc/w7vmyRY3" target="_blank"><img src="https://i.postimg.cc/w7vmyRY3/24-7-21-West-Data.png" alt="24-7-21-West-Data"/></a> <a href="https://postimg.cc/G9zDmJNZ" target="_blank"><img src="https://i.postimg.cc/G9zDmJNZ/24-7-21-West-Data.png" alt="24-7-21-West-Data"/></a>                                                                                                                                            |                             [西部数据](https://wd-gold.com/aff.php?aff=7900)                            |
-|   青瓦（Bluetile.biz）   |                                                                                                                                            <a href='https://postimg.cc/JymcZpwF' target='_blank'><img src='https://i.postimg.cc/JymcZpwF/24-8-8-Bluetile-biz.png' border='0' alt='24-8-8-Bluetile-biz'/></a>                                                                                                                                            |                             [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu)                            |
+---
+
+<details>
+    <summary>其他的专线机场</summary>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">其他专线机场</th>
+      <th style="text-align: center">套餐情况</th>
+      <th style="text-align: center">官网地址</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">奶昔</td>
+      <td style="text-align: center"><a href="https://postimg.cc/z3qWNPdC" target="_blank"><img src="https://i.postimg.cc/z3qWNPdC/24-7-21-Nexitally.png" alt="24-7-21-Nexitally"></a></td>
+      <td style="text-align: center"><a href="https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650">奶昔</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">AmyTelecom</td>
+      <td style="text-align: center"><a href="https://postimg.cc/VrmSYdFf" target="_blank"><img src="https://i.postimg.cc/VrmSYdFf/24-7-21-Amy-Telecom.png" border="0" alt="24-7-21-Amy-Telecom"></a></td>
+      <td style="text-align: center"><a href="https://www.amytele.net">AmyTelecom</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">ImmTelecom</td>
+      <td style="text-align: center"><a href="https://postimg.cc/ykYFmrc1" target="_blank"><img src="https://i.postimg.cc/ykYFmrc1/24-7-21-Imm-Telecom.png" alt="24-7-21-Imm-Telecom"></a> <a href="https://postimg.cc/k22KZ6TL" target="_blank"><img src="https://i.postimg.cc/k22KZ6TL/24-7-21-Imm-Telecom.png" alt="24-7-21-Imm-Telecom"></a></td>
+      <td style="text-align: center"><a href="https://fuckimm.com/aff.php?aff=1344">ImmTelecom</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Kuromi</td>
+      <td style="text-align: center"><a href="https://postimg.cc/G8CDHMb1" target="_blank"><img src="https://i.postimg.cc/G8CDHMb1/24-7-21-Kuromis.png" alt="24-7-21-Kuromis"></a> <a href="https://postimg.cc/yJqgbfgS" target="_blank"><img src="https://i.postimg.cc/yJqgbfgS/24-7-21-Kuromis.png" alt="24-7-21-Kuromis"></a> <a href="https://postimg.cc/v1998RFz" target="_blank"><img src="https://i.postimg.cc/v1998RFz/24-7-21-Kuromis.png" alt="24-7-21-Kuromis"></a> <a href="https://postimg.cc/47Q9tz3H" target="_blank"><img src="https://i.postimg.cc/47Q9tz3H/24-7-21-Kuromis.png" alt="24-7-21-Kuromis"></a></td>
+      <td style="text-align: center"><a href="https://www.kuromis.com">Kuromi</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Tag</td>
+      <td style="text-align: center"><a href="https://postimg.cc/Th2yF5wQ" target="_blank"><img src="https://i.postimg.cc/Th2yF5wQ/24-7-21-TAGInternet.png" border="0" alt="24-7-21-TAGInternet"></a></td>
+      <td style="text-align: center"><a href="https://tagss04.pro/#/auth/6VKNYeoh">Tag</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">花云</td>
+      <td style="text-align: center"><a href="https://postimg.cc/TKBgXdS1" target="_blank"><img src="https://i.postimg.cc/TKBgXdS1/24-7-21-Flower-Cloud.png" alt="24-7-21-Flower-Cloud"></a> <a href="https://postimg.cc/PP312zQm" target="_blank"><img src="https://i.postimg.cc/PP312zQm/24-7-21-Flower-Cloud.png" alt="24-7-21-Flower-Cloud"></a></td>
+      <td style="text-align: center"><a href="https://flowercloud.net/aff.php?aff=9199">花云</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Ytoo</td>
+      <td style="text-align: center"><a href="https://postimg.cc/Yhsm12tR" target="_blank"><img src="https://i.postimg.cc/Yhsm12tR/24-7-21-YTOO.png" alt="24-7-21-YTOO"></a> <a href="https://postimg.cc/BjPPNW60" target="_blank"><img src="https://i.postimg.cc/BjPPNW60/24-7-21-YTOO.png" alt="24-7-21-YTOO"></a></td>
+      <td style="text-align: center"><a href="https://y-too.com/aff.php?aff=5041">Ytoo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Mesl</td>
+      <td style="text-align: center"><a href="https://postimg.cc/rRyt9Kdn" target="_blank"><img src="https://i.postimg.cc/rRyt9Kdn/24-7-21-MESL.png" alt="24-7-21-MESL"></a></td>
+      <td style="text-align: center"><a href="https://in.mesl.cloud/#/register?code=4Dt95iV0">Mesl</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">西部数据</td>
+      <td style="text-align: center"><a href="https://postimg.cc/w7vmyRY3" target="_blank"><img src="https://i.postimg.cc/w7vmyRY3/24-7-21-West-Data.png" alt="24-7-21-West-Data"></a> <a href="https://postimg.cc/G9zDmJNZ" target="_blank"><img src="https://i.postimg.cc/G9zDmJNZ/24-7-21-West-Data.png" alt="24-7-21-West-Data"></a></td>
+      <td style="text-align: center"><a href="https://wd-gold.com/aff.php?aff=7900">西部数据</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">青瓦（Bluetile.biz）</td>
+      <td style="text-align: center"><a href="https://postimg.cc/JymcZpwF" target="_blank"><img src="https://i.postimg.cc/JymcZpwF/24-8-8-Bluetile-biz.png" border="0" alt="24-8-8-Bluetile-biz"></a></td>
+      <td style="text-align: center"><a href="https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu">青瓦</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
 
 某位网友分享的**专线机场价格对比图**：<a href='https://postimg.cc/Q9dfFx8D' target='_blank'><img src='https://i.postimg.cc/Q9dfFx8D/image.jpg' border='0' alt='image'/></a>
 
-
-
 #### 3.2.5 待观察机场
 
+<details>
+    <summary>待观察机场</summary>
 
 这里用来存放目前我发现的新机场和一些需要关注的机场，可能是发展快的机场、我使用中有问题的机场、又或者是其他方面比较吸引我的机场。
 
@@ -203,11 +455,12 @@
     - 24年五月份被打，后面一蹶不振。机场恢复起来缓慢。优点是不被打的时候还是能用这个机场上网的；缺点是有时候机场主可能会忘记续费流量导致节点挂掉。
     - 9-24 吐槽：晚高峰的单线程并不高，珠海联通的后端测起来平均是15MB/s左右，120兆带宽。但是群里说卡的人不多，感觉大部分用户其实都是刷刷网页、看看社交媒体、偶尔刷流媒体等，其实这个速度就能满足大部分人的要求；侧面说明对于机场来说，稳定性应该是首要的，速度是其次。
 
-
-
-
+</details>
 
 #### 3.2.6 优惠券和活动
+
+<details>
+    <summary>优惠券和活动</summary>
 
 一些优惠券和活动会写在这里，但这并不代表其他机场里面没有优惠券和活动（只是我没看到，或者优惠券在官网首页——很好找；有的活动没在上面的官网套餐里显示，那纯属我太懒没更新图片，还有可能是活动已经过期了；还有就是不用盯着有优惠券的机场买，也有些机场性价比很高了，所以常年没有优惠券）。
 
@@ -243,11 +496,13 @@
 2. [Ytoo](https://y-too.com/aff.php?aff=5041) —— 七月85折优惠券（7.01 - 7.31，不包括 Air / Team套餐）：202407 ;七夕8.5折优惠券（不包括 Air / 企业套餐）：七夕情人节2024；中秋8.5折优惠券：中秋节2024
 3. [西部数据](https://wd-gold.com/aff.php?aff=7900) —— 85折优惠码（7.01 - 7.31）: JQ90P6O2ZY
 
+</details>
 
 
 #### 3.2.7 机场总结
 
-
+<details>
+  <summary>机场总结</summary>
 
 - **性价比**中转机场：[JAY 云](https://t.me/jaycloudbot?start=9)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[Wcloud](https://wcloud.me/register?code=GZBeG8OO)、[Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛（目前本人未实践过，但客服告知是这样的），具体看上述机场的描述）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu)、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)（年付小包）
@@ -287,6 +542,10 @@
 
 **记住！本文的主要目的是为了让你有更好的选择！**
 
+</details>
+
+
+
 
 
 ## 4 杂谈
@@ -295,7 +554,8 @@
 
 #### 4.1.1 自问自答篇
 
-
+<details>
+  <summary>自问自答篇</summary>
 
 - 关于 VPN 和机场的选择：选机场。大部分 VPN 在大陆是又贵又难用，虽然 VPN 的加密协议很吸引人，但是遭不住难用啊。一说 VPN 我就想起了我年付的 VPN —— 难用的一批，下载的 VPN 客户端软件不能用，在 Windows 上需要下载他们指定的软件和特定的配置文件——而且连接效率慢，延迟比普通的中转机场高，还时不时不能连接。不过上述的迷雾通算是 VPN 中比较好用的一类，但还是有些贵，年付450左右（本人迷雾通未尝试付费款，所以无法得知迷雾通的实际体验效果和一般机场的差别，欢迎使用过迷雾通的小伙伴在 Issues 区解答）；且迷雾通节点挂了就是全挂，但是机场你可以买多个订阅进行组合，来达到不全挂的目的。
 - 手上机场的数量：**多备几个机场**！！！！！！！！机场的更新换代比较快，国内防火墙时不时抽风发威，D哥偶尔敲诈几个机场，还有机场间的互D，这些问题导致手里难免会有几个机场中标，所以可以多备几个。推荐手里的机场有：**专线机场+中转机场+HY/Vless协议的直连机场**（最近这一段时间**新疆用户**用直连机场的体验好于一般的中转机场）
@@ -313,22 +573,31 @@
 - 关于测速：TG上面有很多可以测机场测速图的机器人，比如上面推荐的那两个的群组里就有免费的测速机器人。但是关于测速这方面有几个需要注意的点：一是晚高峰最好不要测速，会影响到其他人的使用；二是测速图只能反映那个测速后端的测速情况，你要测速的话尽量选择跟你那边近的测速后端和网络运营商；三是**测速图也不一定反应真实的测速情况**，有的机场会劫持测速后端的延迟和速度，导致测速图的延迟和速度很好看，比如：花云、西数等大机场（个人比较反感这种行为）。
 - 去哪问自己想买的机场情况：首先不推荐去这个机场的群组里去问，这就好像去别人家里去吃饭，然后你问各个家人：“这个饭好吃吗。”一样。你可能会得到如实的回答，但我总感觉哪里怪怪的。然后你应该去评测机场的群组里去问，比如上面的这个频道相对客观些——[免费测速和评测机场的频道](https://t.me/+fYSUQ5KcMHxjYTg1)（不过有的评测机场群组里就是机场主推荐自家机场的地方，所以要多找些评测机场的群组）。最后你可以在这个机场的群组里多待一会时间，可以观察有没有人反馈机场的情况——不过有的机场主会删除负面信息，这点需要注意。
 
+</details>
+
+
+
 
 
 #### 4.1.2 机场相关的新闻
 
 
+<details>
+  <summary>机场相关的新闻</summary>
 
 - **中转机场的价格可能会提升**：最近移动的跨省 QOS 限速政策，广东那边移动入口机器被限速，这会导致很多国内中转机场带宽不足。如果持续下去，国内移动中转机将会大幅度涨价或者更换电信/联通入口中转机，都会导致机场涨价（即使是专线中转机场，也需要将入口更换为电信入口机子）。参考文章，[中国移动“省间结算”政策，强制丢包](https://www.nodeseek.com/post-133588-1)
 - ~~7月份大会期间，一些 HY 协议的机场被墙~~（开会时间过去就好了）：直连不管什么协议流量大了都很容易被墙。[参考TG上的一篇文章](https://t.me/paoluztz/4628)
 - 某些特定地区机场难用的情况：新疆（[新疆反向墙现象](https://shenlongbbs.com/thread-24364.htm)，建议使用优化直连的机场）、江苏（[反诈现象](https://www.v2ex.com/t/849663)，订阅不能更新，节点 ERROR）、福建（白名单现象，[无法使用未备案域名访问白名单以外的IP](https://blog.tsinbei.com/archives/1293/)）等地，机场时不时出现难用的情况。
 - 九月初旬 **“唯云四杰”** 的唯一入口机器下掉了，现在被戏称为 **“联通四杰”**：最近很多原来是唯云的机场都下掉唯一的机器了，包括但不限于“唯云四杰”、红杏、青瓦等机场（上面的信息还没更新，等有空更新）。目前听说薯条的 A-F 组还有唯云的入口机器，但我认为这个机器下掉只是时间问题。自此，其他非唯云系的一线机场性价比开始突显 —— [花云](https://flowercloud.net/aff.php?aff=9199)、[Mesl](https://in.mesl.cloud/#/register?code=4Dt95iV0)、[Tag](https://tagss04.pro/#/auth/6VKNYeoh)、[西部数据](https://wd-gold.com/aff.php?aff=7900)等机场。
 
+</details>
 
 
 #### 4.1.3 文章中下架的机场
 
 
+<details>
+  <summary>文章中下架的机场</summary>
 
 这里用来存放我之前文章中上过，但后来下架的机场。大概率会讲机场不好的一面，自行思辨。
 
@@ -344,6 +613,7 @@
   
   该机场没什么黑点，至少在我的认知范围内没有相关的事。机场打烊的处理也不错 —— 用户退款/换其他等价值套餐。机场主应该是个精神小伙，说话挺有趣的。但感觉这样的人很难开好机场。挺遗憾的。
 
+</details>
 
 
 ### 4.2 机场代理软件
@@ -375,32 +645,3 @@
 - [Subscription Converter](https://sublink.dev/)
 - [奶昔订阅转换](https://nexconvert.com/)
 
-## 5 私货
-
-<details>
-<summary>私货（目前有一个活动）</summary>
-  
-放一些机场抽奖的群组，除此之外，在 [自问自答篇](#411-自问自答篇) 也有两个时常抽奖的群组：
-
-0. 兑换新开 Emby 服的资格：
-    - 条件：进群凑够 2000 积分，通过积分兑换 Emby 服账号（积分可以通过拉人、水群等方式获得；之前是 1500 分，但是涨价了，后面兑换的积分只会越来越高。）
-    - TG群组：[Lily聊天频道](https://t.me/+yP3YffhTh9A0OTNk)
-
-1. 抽**黑神话**和**奶昔**奖励的第一个 TG 群组（时常有抽奖活动）：
-    - 活动跟进：
-      1. ~~之前的两周的时间抽了一个花云企业套餐😀、三个奶昔😲😲和11个花云月付~~
-      2. ~~抽奖时间为：8/26 — 9/02；在抽**黑神话·悟空 豪华版**和**4 个奶昔月付套餐**活动😱😱😱这些奖品大概率可以换现金/ USDT （之前的奖品就是可以换的）。 ；~~
-
-    - TG 群组：[点我进入 TG 群组](https://t.me/+2RSPR8tEmfY2ZjEx)
-
-2. 抽**黑神话**和**50USDT**的第二个 TG 群组：
-    - 活动跟进：
-      1. ~~目前只需要点击参与就可以参与活动，没有其他参与条件的限制。只是这个是要到这个机场的频道里去抽奖的。但是这个频道是私有的，只能先去机场的官网去注册，然后点击官网公告里的官方TG频道进去。抽奖时间截止为：9/7~~
-        - 活动截图：<a href='https://postimg.cc/tsgMZ2Df' target='_blank'><img src='https://i.postimg.cc/tsgMZ2Df/best-vpn.png' border='0' alt='best-vpn'/></a>
-    - 该机场注册地址：[Best Vpn](https://go.bv2.xyz/#/register?code=G9hwKOnV)
-
-</details>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=LucidaPlus/2024-free-good-airport-vpn&type=Timeline)](https://star-history.com/#LucidaPlus/2024-free-good-airport-vpn&Timeline)
